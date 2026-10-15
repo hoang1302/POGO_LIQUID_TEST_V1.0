@@ -1,0 +1,49 @@
+{
+  "package_date": "2026-10-15",
+  "project": "POGO_LIQUID_TEST_V1.0",
+  "status": "Prototype; physical verification not recorded",
+  "schematic_components": 27,
+  "pcb_components": 27,
+  "missing_schematic_footprints_in_packaged_library": [],
+  "missing_pcb_footprints_in_packaged_library": [],
+  "files": [
+    {
+      "file": "hardware/altium/POGO_LIQUID_TEST_V1.0.SchDoc",
+      "source_file": "POGO_LIQUID_TEST_V1.0.SchDoc",
+      "sha256": "984c00f40ace63e8649a9cc45f3a8147fc839b744413052b8b66e094aba7e7b7",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/POGO_LIQUID_TEST_V1.0.PcbDoc",
+      "source_file": "POGO_LIQUID_TEST_V1.0.PcbDoc",
+      "sha256": "f1d1b5d42a4c8d3bdb45f3159bf952d07ba6646720bb5eeee12e061b3eb5431b",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/POGO_LIQUID_TEST_V1.0.SchLib",
+      "source_file": "POGO_LIQUID_TEST_V1.0.SchLib",
+      "sha256": "6e9940108a6820f34f8bd7d1b879460749c4a86932b2df7fd4a4d2e71c0c2944",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/POGO_LIQUID_TEST_V1.0.PcbLib",
+      "source_file": "POGO_LIQUID_TEST_V1.0.PcbLib",
+      "sha256": "19b69d099b00e2741675de4b918be25d6016852f695eecd02072503158d8e564",
+      "content": "unchanged"
+    },
+    {
+      "file": "hardware/altium/POGO_LIQUID_TEST_V1.0.PrjPcb",
+      "source_file": "POGO_LIQUID_TEST_V1.0.PrjPcb",
+      "sha256": "ffb6bb13cdbf7f0d292876a9e696d4ba704c882ea5baf50dcdd084de1c8a30cb",
+      "source_sha256": "b1321481d2faee1da54346230bc2edbc14be7a6aed69c70f5dc288b62d9ebc4b",
+      "content": "packaging-only reference cleanup"
+    },
+    {
+      "file": "hardware/schematic/POGO_LIQUID_TEST_V1.0_Schematic.pdf",
+      "source_file": "POGO_LIQUID_TEST_Rev1_0.pdf",
+      "sha256": "16168c782f0712349890521e319e8bfd8cfcaeb73721091acd8ea7f0be22b310",
+      "content": "unchanged; renamed for packaging"
+    }
+  ],
+  "verification": "File integrity, document references and footprint-name availability only. No Altium compile/ERC/DRC or physical validation performed."
+}
